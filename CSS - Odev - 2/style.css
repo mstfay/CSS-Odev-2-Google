@@ -1,0 +1,127 @@
+.top-box
+{
+    width: 40%;
+    height: 32px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-right-box
+{
+    width: 40%;
+    height: 32px;
+    position: absolute;
+    right: 8px;
+    text-align: right;
+}
+
+a
+{
+    padding: 12px;
+    white-space: nowrap;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.profile-p
+{
+    border: 0;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+}
+
+.google-logo
+{
+    max-height: 256px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 15px;
+}
+
+.clearfix
+{
+    clear: both;
+}
+
+.buton
+{
+    text-align: center;
+    height: 36px;
+    padding: 20px;
+    color: #5f6368;
+    margin: 5px;    
+}
+
+.buton-ic
+{
+    -webkit-box-shadow: 0px 0px 10px 1px #000000; 
+    box-shadow: 0px 0px 10px -5px #000000;
+}
+
+.search 
+{
+    -webkit-box-shadow: 0px 0px 10px 1px #000000; 
+    box-shadow: 0px 0px 10px -5px #000000;
+    width: 640px; 
+    border-radius: 24px; 
+    border: none; 
+    height: 48px;
+    outline: none;
+    font-size: 16px;
+    margin-left: 5px;
+    padding-left: 20px;
+}
+
+.voice-pic
+{
+    width: 34px;
+    padding: 0px;
+    height: 34px;
+    position: absolute;
+    right: 8px;
+    text-align: right;
+    margin-right: 31.5%;
+    margin-top: 7px;
+}
+
+.search-img
+{
+    width: 25px;
+    padding: 0px;
+    height: 25px;
+    position: absolute;
+    left: 8px;
+    text-align: left;
+    margin-left: 30.5%;
+    margin-top: 12px;
+    opacity: 0,2px;
+}
+
+.end-page
+{
+    position: fixed;
+    bottom: 0px;
+    left: -10px;
+    width: 101%;
+    height: 50px;
+    background-color: #f2f2f2;
+}
+
+.bottom-box
+{
+    width:700px;
+    height: 90px;
+    float: left;
+    padding: 18px;
+}
+
+.bottom-right-box
+{
+    position: absolute;
+    right: 0px;
+    text-align: right;
+    padding: 18px;
+}
